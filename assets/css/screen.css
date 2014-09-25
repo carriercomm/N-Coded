@@ -372,7 +372,7 @@ table.plain {
 /* Yo-logo. Yolo-go. Upload one in ghost/settings/ */
 #blog-logo img {
     display: inline;
-    max-height: 2.2rem;
+    max-height: 5.2rem;
     width: auto;
     margin-right: 1rem;
     -webkit-border-radius: 3px;
